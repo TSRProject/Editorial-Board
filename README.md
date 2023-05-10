@@ -1,6 +1,13 @@
 # Editorial-Curation
 This is the repository for the editorial curation of the [ontology-on-the-making](https://tsrproject.github.io/TSROnto/)
 
+
+# TO DO
+Given the best practices, we can say that we need:
+- taxonomy
+- thesauri
+- and then ontology
+
 # FAQ PAGE
 
 **What is a knowledge base?** An ontological knowledge base is a machine-readable knowledge base with a formal semantic model.
