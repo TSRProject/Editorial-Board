@@ -42,3 +42,13 @@ NB: Ontology describes a domain, while a knowledge base (based on an ontology) d
 
 
 
+
+
+# TOOLS
+An ontology editing system is an artifact editing system that can solve an Ontology Engineering Task.
+
+AKA: Ontology Modeling System, Ontology Editor, Ontology Editor System, Ontology Design.
+
+We're going to use Protégé
+
+ [rif](https://www.gabormelli.com/RKB/Ontological_Knowledge_Base)
