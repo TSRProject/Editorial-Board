@@ -25,7 +25,7 @@ NB: Ontology describes a domain, while a knowledge base (based on an ontology) d
 
 
 
-# COMPETECNY QUESTIONS
+# COMPETENCY QUESTIONS
 1. What are the requirement for the change to happen?
 2. What are the prerequisited to make the change to happen?
 
