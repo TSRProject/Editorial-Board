@@ -47,7 +47,7 @@ An ontology editing system is an artifact editing system that can solve an Ontol
 
 AKA: Ontology Modeling System, Ontology Editor, Ontology Editor System, Ontology Design.
 
-We're going to use Protégé
+We're going to use **Protégé**
 
 
 
