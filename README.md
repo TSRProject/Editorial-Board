@@ -8,6 +8,9 @@ Given the best practices, we can say that we need:
 - thesauri
 - and then ontology
 
+Other to do
+actors - behaviours - activities => main attributes and sub attributes
+
 # FAQ PAGE
 
 **What is a knowledge base?** An ontological knowledge base is a machine-readable knowledge base with a formal semantic model.
