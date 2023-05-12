@@ -1,4 +1,5 @@
 
 - For more, see issues
-  - Internal organization notes
-  - External organization notes
+  - Editorial board content
+    - f
+  - General website content
