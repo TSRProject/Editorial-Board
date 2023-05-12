@@ -17,8 +17,7 @@ The process planning is the core of the project management, for it to be a relia
 - About metadata representation, the ontology representation language chosen has been owl, through rdf schema
 
 ### tools
-**[ontology development environment]** Protegé
-**[ontology evaluation]** --
+**[ontology development environment and reasoning]** Protegé
 **[ontology querying]** SPARQL to our endpoint
 **[ontology visualization]** OWLgrEd + http://vowl.visualdataweb.org/webvowl.html 
 
@@ -37,7 +36,6 @@ The project management has to be developed in different levels, according to the
 6. REASONING: reasoning based on competency questions
 ## second level: modelling domains
 The second level regards the Knolwedge Base. The KG is characterized by different domains, that are all those that the ontology refers to, directly or indirectly. The KB is constructed starting to think about where effectively the ontology will be used, and for what main purpose.
-In our case, the purpose is purely educational, so ideally if could support a web-application based on Information Model (IFC-based) in which several terms are analyzed for the sake of a postcolonial, therefore non human-centric vision of environments and the actors inside it.
-Hence, our domain of reference are:
-- philosophical, especially the late 90s philosophy domain and all of that ethics-shifting paradigms that rely on a narrative-based perspective.
-- [...]
+In our case, the purpose is purely educational, so ideally it could support a web-application based on Information Model (IFC-based) in which several terms are analyzed for the sake of a postcolonial, therefore non human-centric vision of environments and the actors inside it.
+
+[our domain of reference]
