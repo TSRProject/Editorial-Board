@@ -28,12 +28,19 @@ __________________________________________________
 __________________________________________________
 The project management has to be developed in different levels, according to the work we have been dealing with.
 ## first level: ontology modelling
-1. INVESTIGATION: checking of previous ontologies and taxonomies, together with other sources regarding the knowledge domain. 
-2. SPECIFICATION OF OBJECTIVES: development of competency questions and draft of classes properties and attributes.
-3. OVERALL FRAMEWORK: formalization of classes and their explanation.
-4. TOPOLOGICAL RELATIONSHIPS: classes and class hierarchies are defined in detail.
-5. FINAL SPECIFICATIONS AND COMPUTATION: relationships and development in Protegé environment
-6. REASONING: reasoning based on competency questions
+1. WHY: 
+  - [priority subset] What are our priorities of extraction and visualization? 
+  - [the domain knowledge] What has been done in literature? 
+  - [background understanding] What is the technical and theoretical background we rely on? why? what are our choices about the field?
+
+
+2. INVESTIGATION: checking of previous ontologies and taxonomies, together with other sources regarding the knowledge domain. 
+
+3. SPECIFICATION OF OBJECTIVES: development of competency questions and draft of classes properties and attributes.
+4. OVERALL FRAMEWORK: formalization of classes and their explanation.
+5. TOPOLOGICAL RELATIONSHIPS: classes and class hierarchies are defined in detail.
+6. FINAL SPECIFICATIONS AND COMPUTATION: relationships and development in Protegé environment
+7. REASONING: reasoning based on competency questions
 ## second level: modelling domains
 The second level regards the Knolwedge Base. The KG is characterized by different domains, that are all those that the ontology refers to, directly or indirectly. The KB is constructed starting to think about where effectively the ontology will be used, and for what main purpose.
 In our case, the purpose is purely educational, so ideally it could support a web-application based on Information Model (IFC-based) in which several terms are analyzed for the sake of a postcolonial, therefore non human-centric vision of environments and the actors inside it.
